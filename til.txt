@@ -6,3 +6,4 @@
 09.28.2021 -I learned to reap the benefits of embracing the subquery.
 10.01.2021 -Today I learned that codeup is still a safe place
 10.03.2021 -Today I learned it is better to check off a list than to rush in without the list
+10.06.2021 -Today, I learned that how to loop a slice.
