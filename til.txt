@@ -7,3 +7,4 @@
 10.01.2021 -Today I learned that codeup is still a safe place
 10.03.2021 -Today I learned it is better to check off a list than to rush in without the list
 10.06.2021 -Today, I learned that how to loop a slice.
+10.13.2021 -Today, I learned how to improve my typing skills. Today I learned how to sudo my way through the terminal. Today, I learned how the sort() method actually works. Today, I learned about SINGHS banh mi. 
