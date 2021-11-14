@@ -17,3 +17,4 @@ for n in range(len(target_variable)):
 11.10.2021 - “Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” – Isaac Asimov
 11.11.2021 - It's all about a consistent toss. Eliminate as many variables as possible
 11.13.2021 - https://www.youtube.com/watch?v=TxrwImCJCqk
+11.13.2021 - Today, I learned not to **** around with your git commands.
