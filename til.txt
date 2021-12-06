@@ -21,3 +21,4 @@ for n in range(len(target_variable)):
 11.15.2021 - Exercise.
 11.16.2021 - Sleep.
 11.17.2021 - Gini value = probability of incorrect classification. Inverse transform is a function of sklearn. This will be a useful tool to convert units back to original units or restore context to the situation
+2021.12.06 - “The question of relevance comes before that of truth, because to ask whether a statement is true or false presupposes that it is relevant.”-David Bohm
