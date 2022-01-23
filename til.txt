@@ -24,3 +24,6 @@ for n in range(len(target_variable)):
 2021.12.06 - “The question of relevance comes before that of truth, because to ask whether a statement is true or false presupposes that it is relevant.” -David Bohm
 2021.12.13 - Rehearse. If you fail to plan, plan to fail.
 2022.01.14 - Almost everything will work again if you unplug it for a few minutes, including you. -Anne Lamott
+
+2022.01.19 - Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit. 
+-Napoleon Hill
