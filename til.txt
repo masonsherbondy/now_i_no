@@ -28,3 +28,4 @@ for n in range(len(target_variable)):
 
 2022.01.29 - That was pretty good, but it's my turn now.
 2022.02.13 - It's all about the the timing. Timing and structure.
+2022.02.14 - https://www.youtube.com/watch?v=DYTe8N6-qq8
