@@ -29,3 +29,4 @@ for n in range(len(target_variable)):
 2022.01.29 - That was pretty good, but it's my turn now.
 2022.02.13 - It's all about the the timing. Timing and structure.
 2022.02.14 - https://www.youtube.com/watch?v=DYTe8N6-qq8
+2022.02.16 - “You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You must do the things which you think you cannot do.” — Eleanor Roosevelt
