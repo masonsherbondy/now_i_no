@@ -11,7 +11,7 @@ for n in range(len(target_variable)):
     manipulate target_variable[n] here
 
 10.13.2021 -Today, I learned how to improve my typing skills. Today I learned how to sudo my way through the terminal. Today, I learned how the sort() method actually works. Today, I learned about SINGHS banh mi. 
-10.14.2021 -Today, I learned you just listen to your gut. Ok? And on your way down to your gut, check in with your heart. Between those two things, they'll let you know what's what.
+10.14.2021 -Today, I learned you just listen to your gut. Ok? And on your way down to your gut, check in with your heart. Between those two things, they'll let you know what's what. -Lasso
 10.27.2021 - Hang in there. We're here for a reason.
 10.28.2021 - Don't forget to break stuff down.
 11.10.2021 - “Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” – Isaac Asimov
@@ -23,10 +23,10 @@ for n in range(len(target_variable)):
 11.17.2021 - Gini value = probability of incorrect classification. Inverse transform is a function of sklearn. This will be a useful tool to convert units back to original units or restore context to the situation
 2021.12.06 - “The question of relevance comes before that of truth, because to ask whether a statement is true or false presupposes that it is relevant.” -David Bohm
 2021.12.13 - Rehearse. If you fail to plan, plan to fail.
-2022.01.14 - Almost everything will work again if you unplug it for a few minutes, including you. -Anne Lamott
-2022.01.19 - Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit. -Napoleon Hill
-
+2022.01.14 - "Almost everything will work again if you unplug it for a few minutes, including you." -Anne Lamott
+2022.01.19 - "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit." -Napoleon Hill
 2022.01.29 - That was pretty good, but it's my turn now.
 2022.02.13 - It's all about the the timing. Timing and structure.
 2022.02.14 - https://www.youtube.com/watch?v=DYTe8N6-qq8
-2022.02.16 - “You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You must do the things which you think you cannot do.” — Eleanor Roosevelt
+2022.02.16 - "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You must do the things which you think you cannot do." — Eleanor Roosevelt
+2022.02.26 - Fear is the enemy.
