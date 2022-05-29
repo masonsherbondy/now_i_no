@@ -31,3 +31,4 @@ for n in range(len(target_variable)):
 2022.02.16 - "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You must do the things which you think you cannot do." — Eleanor Roosevelt
 2022.02.26 - Fear is the enemy.
 2022.05.22 - Block face shots with your elbows, not your forearms. Counter or fall prey to combos.
+2022.05.28 - Quadriceps femoris can be sore for over a week. Rest your legs, bro.
